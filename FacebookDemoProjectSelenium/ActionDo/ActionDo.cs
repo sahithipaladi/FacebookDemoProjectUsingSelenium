@@ -1,4 +1,9 @@
-﻿using FacebookDemoProjectSelenium.Pages;
+/*
+ * Project: Using Facebook Application and checking the modules using selenium
+ * Author:  p.sahithi
+ * Date :   09/09/2021
+ */
+using FacebookDemoProjectSelenium.Pages;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
